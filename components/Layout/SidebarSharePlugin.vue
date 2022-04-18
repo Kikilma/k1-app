@@ -33,7 +33,7 @@
 
         <li class="button-container mt-4">
           <a
-            href="https://www.creative-tim.com/learning-lab/nuxt/overview/black-dashboard"
+            href="https://wikipedia.org"
             target="_blank"
             rel="noopener"
             class="btn btn-default btn-block btn-round"
@@ -41,20 +41,20 @@
             Documentation
           </a>
           <a
-            href="https://creative-tim.com/product/nuxt-black-dashboard"
+            href="https://wikipedia.org"
             target="_blank"
             rel="noopener"
             class="btn btn-primary btn-block btn-round"
           >
-            Download Now
+            Sensors
           </a>
           <a
-            href="https://creative-tim.com/product/nuxt-black-dashboard-pro"
+            href="https://wikipedia.org"
             target="_blank"
             rel="noopener"
             class="btn btn-info btn-block btn-round"
           >
-            Upgrade to PRO
+            Prices
           </a>
         </li>
       </ul>
@@ -126,4 +126,4 @@
   .badge-vue {
     background-color: $vue;
   }
-</style>
+</style>pm2 
