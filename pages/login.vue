@@ -39,7 +39,7 @@
           </base-button>
           <div class="pull-left">
             <h6>
-              <nuxt-link class="link footer-link" to="/login">
+              <nuxt-link class="link footer-link" to="/register">
                 Create Account
               </nuxt-link>
             </h6>
